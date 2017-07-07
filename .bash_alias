@@ -1,0 +1,17 @@
+alias la="ls -la"
+alias up="cd .."
+alias home="cd ~"
+alias sites="cd ~/Sites/"
+
+# node alias
+alias run="npm run"
+alias dev="npm dev"
+alias build="npm build"
+alias production="npm production"
+alias start="npm start"
+
+# node alias alias
+alias nr="npm run"
+alias ns="npm start"
+
+# git alias
